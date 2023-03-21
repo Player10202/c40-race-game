@@ -1,1 +1,2 @@
-# c40-race-game
+# C40RV_SpeedRacer_TeacherActivity
+Teacher Activity
